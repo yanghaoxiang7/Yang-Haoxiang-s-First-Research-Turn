@@ -1,0 +1,3 @@
+python font2img.py --src_font=simfang.ttf --dst_font=simkai.ttf --charset=CN --sample_count=1000 --sample_dir=./sample_dir --label=0 --filter=1 --shuffle=1
+python package.py --dir=./image_directories --save_dir=./binary_save_directory --split_ratio=0.5
+python train.py --experiment_dir=./experiment
