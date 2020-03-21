@@ -13,7 +13,7 @@ CUDA >= 10.0
 
 GPU memory >= 2.0GB
 
-<1> mnist.py
+<1> mnist_classification.py
 
 <2> mnist_generation.py
 
