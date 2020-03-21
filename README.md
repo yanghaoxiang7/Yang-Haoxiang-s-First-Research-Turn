@@ -25,13 +25,13 @@ In this section please follow these step to run the code:
 
 (1) check your Python and CUDA version
 
-(2) type in:
+(2) type in: （you should first creat a directory ./sample_dir）
 
 python font2img.py --src_font=simfang.ttf --dst_font=simkai.ttf --charset=CN --sample_count=1000 --sample_dir=./sample_dir --label=0 --filter=1 --shuffle=1
 
 to transfer characters to images (and prepare to transfer simfang.ttf to simkai.ttf)
 
-(3) copy photos in ./sample_dir to ./image_directories and type in:
+(3) copy photos in ./sample_dir to ./image_directories and type in: （you should first creat a directory ./image_directories and ./binary_save_directory）
 
 python package.py --dir=./image_directories --save_dir=./binary_save_directory --split_ratio=0.5
 
