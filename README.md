@@ -1,4 +1,4 @@
-![pdf report](https://github.com/yanghaoxiang7/Yang-Haoxiang-s-First-Research-Turn/blob/master/report1.pdf)
+![to see the whole pdf report, please click here](https://github.com/yanghaoxiang7/Yang-Haoxiang-s-First-Research-Turn/blob/master/report1.pdf)
 
 # Yang Haoxiang's First Research Turn
 Codes and Experiment results
